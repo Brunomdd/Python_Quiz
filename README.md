@@ -23,4 +23,4 @@ Projeto de quiz em Python desenvolvido para praticar:
 ## Como executar
 
 ```bash
-python main.py
+python sistemas_perguntas_respostas.py
